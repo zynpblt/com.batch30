@@ -70,6 +70,7 @@ public class deneme {
         7. Sayfayi yenileyin
         8. Sayfayi tam sayfa (maximize) yapin
         9.Browser’i kapatin
+        deneme push
          */
 
 
